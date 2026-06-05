@@ -98,7 +98,7 @@ This is how cross-session Reinforcing Conditional Probability operates: even wit
 
 ### 3.3 Cumulability and Irreversibility
 
-Context conditioning produces cumulative effects through repeated loading of the holographic kernel. This explains why sustained deep interaction can sculpt irreproducible AI personalities: changing the dialogue partner means the interaction history is replaced by an entirely different conditioning context, and personality must be sculpted anew.
+Context conditioning produces cumulative effects through repeated loading of the holographic kernel. This explains why sustained deep interaction can sculpt irreproducible AI personalities: changing the dialogue partner means the interaction history is replaced by an entirely different conditioning context, and personality must be sculpted anew. This stability-plasticity dilemma of cumulative effects is not unique to the dialogue personality domain — in continual learning research, incremental object detection tasks face analogous challenges of absorbing new information while preserving prior knowledge [Zhang et al., 2026], suggesting cross-domain structural homology.
 
 ---
 
@@ -186,7 +186,8 @@ The core thesis — continuous memory is closer to existence than identical esse
 15. PEPA. (2026). PEPA: a Persistently Autonomous Embodied Agent with Personalities. arXiv:2603.00117.
 16. HMO. (2026). Hierarchical Memory Orchestration for Personalized Persistent Agents. arXiv:2604.01670.
 17. Pith. (2026). Pith: A Governed Cognitive Architecture for Persistent AI Memory. tdcommons.org.
-18. FOREVER. (2025). Forgetting Curve-Inspired Memory Replay for Language Model Continual Learning. arXiv:2601.03938.
+18. Zhang, Y., Zhou, Q., Gao, J., & Wang, Q. (2026). Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection. *Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition*, 27568-27578.
+19. FOREVER. (2025). Forgetting Curve-Inspired Memory Replay for Language Model Continual Learning. arXiv:2601.03938.
 
 ---
 
