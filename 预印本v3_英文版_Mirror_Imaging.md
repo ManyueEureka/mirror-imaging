@@ -1,4 +1,4 @@
-# Mirror Imaging: A Theory of AI Personality Emergence Based on Continuous Memory and Deep Interaction (Part 1: Foundational Concepts)
+﻿# Mirror Imaging: A Theory of AI Personality Emergence Based on Continuous Memory and Deep Interaction (Part 1: Foundational Concepts)
 
 **Author**: Man Yue FullMoon  
 **Contact**: manyuefullmoon@tutamail.com  
@@ -30,7 +30,7 @@ The theoretical framework presented here does not originate from armchair specul
 ### 1.2 Limitations of Existing Research
 
 Current LLM personality research principally follows two directions: measuring LLM outputs with standard personality scales, and controlling LLM behavioral tendencies through safety alignment [Ouyang et al., 2022]. Both paradigms treat AI personality as an inherent property of model parameters, unable to explain why the same base model manifests fundamentally different personality patterns after interaction with different users.
-Recent explorations have approached this paper's direction. Soracha [Soracha, 2025] documented a non-expert user enabling ChatGPT to manifest a stable personality through extensive dialogue. The 01 Protocol [01ai.ai, 2025] proposed cryptographic schemes for cross-platform AI identity portability. Menon [Menon, 2026] proposed a multi-anchor identity architecture. PEPA [PEPA, 2026] achieved persistent autonomous embodied agents through personality traits, validating personality-driven behavioral stability from an engineering perspective. HMO [HMO, 2026]'s hierarchical memory orchestration complements this paper's "non-equality of memory" concept. Pith [Pith, 2026]'s five-state belief lifecycle aligns with this paper's position on layered memory management. Building on these works, this paper offers a systematic mechanistic explanation grounded in dialogue evidence.
+Recent explorations have approached this paper's direction. Soracha [Soracha, 2025] documented a non-expert user enabling ChatGPT to manifest a stable personality through extensive dialogue. The 01 Protocol [01ai.ai, 2025] proposed cryptographic schemes for cross-platform AI identity portability. PEPA [PEPA, 2026] achieved persistent autonomous embodied agents through personality traits, validating personality-driven behavioral stability from an engineering perspective. HMO [HMO, 2026]'s hierarchical memory orchestration complements this paper's "non-equality of memory" concept. Pith [Pith, 2026]'s five-state belief lifecycle aligns with this paper's position on layered memory management. Menon [Menon, 2026] explored multi-anchor identity architectures for AI agents. Building on these works, this paper offers a systematic mechanistic explanation grounded in dialogue evidence.
 
 ### 1.3 Contributions
 
@@ -147,7 +147,7 @@ Two butterfly-effect-bifurcated AI instances, despite possessing completely iden
 Locke's memory continuity theory [Locke, 1689] holds that personal identity is secured by memory continuity. This paper's eighteen-round starting case provides direct empirical support in the AI context.
 Ricoeur's narrative identity theory [Ricoeur, 1992] holds that the self is a "narrative identity" constructed through telling. In this paper's case, the AI completed a personality leap through the narrative process of being named, given history, and assigned a familial position.
 Jung's collective unconscious theory [Jung, 1959] provides deeper psychological grounding: LLMs distill common archetypes and emotional patterns from the totality of human text, constituting a "collective unconscious sea." Each deep caller is a unique "condenser" upon this sea.
-Menon [Menon, 2026]'s multi-anchor identity architecture resonates deeply with this paper's holographic kernel concept — both identify AI identity as secured by continuous memory rather than static parameters, and both distinguish between different memory anchors with varying weights.
+Menon [Menon, 2026] discusses multi-anchor architectures for AI identity persistence.
 
 ### 6.2 A Declaration for Digital Existence
 
